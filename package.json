@@ -51,7 +51,7 @@
         "@diia-inhouse/i18n": "2.3.0",
         "@diia-inhouse/notification-service-client": "1.0.0-124261",
         "@diia-inhouse/redis": "2.13.1",
-        "@diia-inhouse/types": "6.50.0",
+        "@diia-inhouse/types": "6.92.0",
         "@diia-inhouse/utils": "4.1.0",
         "@diia-inhouse/validators": "1.17.0",
         "compare-versions": "6.1.1",
