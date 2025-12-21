@@ -36,7 +36,7 @@
     "dependencies": {
         "@diia-inhouse/analytics": "1.61.0",
         "@diia-inhouse/auth-service-client": "1.0.0-124276",
-        "@diia-inhouse/crypto": "1.11.0",
+        "@diia-inhouse/crypto": "1.11.1",
         "@diia-inhouse/db": "4.13.1",
         "@diia-inhouse/diia-app": "18.2.0",
         "@diia-inhouse/diia-crypto-client": "1.0.0-94617",
